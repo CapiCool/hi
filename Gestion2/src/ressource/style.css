@@ -1,0 +1,21 @@
+#login{
+-fx-background-color: orange;
+
+}
+#login .text-field{
+	-fx-background-color: blue;
+-fx-text-fill: whitesmoke;
+}
+#login .label{
+	-fx-text-fill:  FIREBRICK;
+	-fx-margin-top: -3px;
+	-fx-font-size: 20px;
+}
+#login .button{
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+	-fx-text-fill: whitesmoke;
+	-fx-margin: 50px;
+}
+#login .button:hover {
+	-fx-background-color: red;
+}
